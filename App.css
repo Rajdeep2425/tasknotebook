@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(89, 52, 175);
+}
+
+.app {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-style: oblique;
+  color: black;
+}
+.hey-test {
+  color: rgb(242, 161, 9);
+}
+.hey-result {
+  color: rgb(244, 19, 19);
+  font-style: normal;
+  font-size: 20px;
+}
+.hey-input {
+  margin: 4px 0;
+  padding: 5px;
+  border: 1px solid #ccc;
+  background-color: grey;
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+  border-color: black;
+  margin-right: 20px;
+  background-color: black;
+  color: white;
+  font-weight: 300;
+}
+.hey-test button {
+  color: blue;
+  height: 40px;
+  width: 100px;
+}
+.Todo-clear {
+  color: greenyellow;
+  font-size: 30px;
+  margin-right: 50px;
+}
+.hey-index {
+  margin: 4px 0;
+  padding: 5px;
+  border: 1px solid #ccc;
+  background-color: grey;
+  border-radius: 5px;
+  list-style-type: diamond;
+}
+.Todo-clear button {
+  margin-left: 400px;
+}
